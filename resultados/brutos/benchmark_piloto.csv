@@ -1,0 +1,4 @@
+algoritmo,tamanho,repeticao,tempo_segundos
+Gnome Sort,1000,1,0.03780580500006181
+Tournament Sort,1000,1,0.0013089320000290172
+Pancake Sort,1000,1,0.018492862999664794

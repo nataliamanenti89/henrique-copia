@@ -1,0 +1,4 @@
+Faker
+
+[dev]
+pytest
